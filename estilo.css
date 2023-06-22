@@ -19,6 +19,10 @@
     margin: 0 40px;
 }
 
+.card-body {
+    justify-content: center;
+}
+
 .logo {
     width: 45px;
     height: 65px;
